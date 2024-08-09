@@ -1,0 +1,9 @@
+domain = Qqq
+nickname = Qqq
+social_link1 = https://t.me/easygroup13
+social_link2 = https://t.me/easygroup13
+social_link3 = https://t.me/easygroup13
+custom_link1 = https://telegra.ph/EASY-WORLD-06-07
+name_custom_link1 = Telegraph
+custom_link2 = https://telegra.ph/EASY-WORLD-06-07
+name_custom_link2 = Ff Ty re
