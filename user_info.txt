@@ -1,4 +1,0 @@
-Nickname: bread
-Domain: bbx
-Links: https://t.me/perpage_bot, https://t.me/perpage_bot, https://t.me/perpage_bot
-Telegram ID: 226482111
