@@ -1,0 +1,13 @@
+user_id = 7497832856
+domain = ter3
+nickname = ter3
+social_link1 = asdasd asdad
+social_link2 = asdasd asdad
+social_link3 = asdasd
+custom_link1 = asdasd
+name_custom_link1 = asdasd
+custom_link2 = asdasd
+name_custom_link2 = asdasd
+points = 0
+invited = 0
+registered_self = 0
