@@ -1,4 +1,8 @@
-Nickname: bread
-Domain: bbx
-Links: https://t.me/MW413, https://t.me/community_world, https://t.me/breadbeatbox
+domain = Aaaa
+nickname = FIRST
+social_link1 = https://telegra.ph/
+social_link1 = https://telegra.ph/
+social_link1 = https://telegra.ph/
+custom_link1 = https://telegra.ph/
+custom_link2 = https://telegra.ph/
 Telegram ID: 226482111
