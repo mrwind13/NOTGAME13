@@ -1,0 +1,13 @@
+user_id = 553334131
+domain = Test3
+nickname = 3
+social_link1 = 3
+social_link2 = 3
+social_link3 = 33
+custom_link1 = 3
+name_custom_link1 = 4
+custom_link2 = 33
+name_custom_link2 = ;;
+points = 0
+invited = 0
+registered_self = 0
