@@ -1,0 +1,9 @@
+domain = ter
+nickname = her
+social_link1 = fdgdsfd
+social_link2 = sdfsdf
+social_link3 = sdffdsfg
+custom_link1 = sssss
+name_custom_link1 = sssss
+custom_link2 = sssss
+name_custom_link2 = ddddd
