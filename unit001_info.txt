@@ -1,9 +1,0 @@
-domain = unit001
-nickname = unikut
-social_link1 = 1
-social_link2 = 2
-social_link3 = 3
-custom_link1 = 4
-name_custom_link1 = 5
-custom_link2 = 6
-name_custom_link2 = 7

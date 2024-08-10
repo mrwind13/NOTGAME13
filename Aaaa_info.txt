@@ -1,8 +1,0 @@
-domain = Aaaa
-nickname = FIRST
-social_link1 = https://telegra.ph/
-social_link1 = https://telegra.ph/
-social_link1 = https://telegra.ph/
-custom_link1 = https://telegra.ph/
-custom_link2 = https://telegra.ph/
-Telegram ID: 226482111
