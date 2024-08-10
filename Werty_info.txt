@@ -1,0 +1,10 @@
+domain = Werty
+nickname = Qwer
+social_link1 = Q
+social_link2 = Q
+social_link3 = Q
+custom_link1 = W
+name_custom_link1 = W
+custom_link2 = Q
+name_custom_link2 = Q
+telegram_id = Не указано
