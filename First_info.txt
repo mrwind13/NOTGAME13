@@ -1,5 +1,5 @@
 domain = First
-nickname = Первый пользователь
+nickname = BRDBTBX
 social_link1 = Х
 social_link2 = Х
 social_link3 = Х
